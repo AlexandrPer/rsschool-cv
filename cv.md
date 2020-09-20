@@ -4,7 +4,7 @@ fix : Rename cv to cv.md
 fix : Rename cv to cv/cv.md
 fix : Rename cv.md
 
-# <h1>Alexander Peretyatko
+<h1>Alexander Peretyatko</h1>
 
 * Phone number: +375257847398
 * Marital status: Single
@@ -12,11 +12,13 @@ fix : Rename cv.md
 * Nationality: Belarussian
 * Email: gthtnznrjdfytr@gmail.com
 
-#### <h4>My main goal is all-round development, learning new skills and a successful career. This is facilitated by such qualities as: purposefulness, focus on results, desire
-#### <h4>to learn something new and interesting. I always want to move forward with new knowledge. I am currently studying programming languages. Specialty 
-#### <h4>programmer-engineer-economist at MITSO University. Interesting programming. The most important thing for me is to do what I love.
+<h4>
+  My main goal is all-round development, learning new skills and a successful career. This is facilitated by such qualities as: purposefulness, focus on results, desire
+  to learn something new and interesting. I always want to move forward with new knowledge. I am currently studying programming languages. Specialty 
+  programmer-engineer-economist at MITSO University. Interesting programming. The most important thing for me is to do what I love.
+</h4>
 
-## <h2>Skills
+<h2>Skills</h2>
 
 1. html
 1. css

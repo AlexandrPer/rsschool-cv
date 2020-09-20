@@ -11,7 +11,7 @@ docs: Markdown & Git
 * Nationality: Belarussian
 * Email: gthtnznrjdfytr@gmail.com
 
-<h2>My main goal is all-round development, learning new skills and a successful career. This is facilitated by such qualities as: purposefulness, focus on results, desire to learn something new and interesting. I always want to move forward with new knowledge. I am currently studying programming languages. Specialty programmer-engineer-economist at MITSO University. Interesting programming. The most important thing for me is to do what I love.</h2>
+<h4>My main goal is all-round development, learning new skills and a successful career. This is facilitated by such qualities as: purposefulness, focus on results, desire to learn something new and interesting. I always want to move forward with new knowledge. I am currently studying programming languages. Specialty programmer-engineer-economist at MITSO University. Interesting programming. The most important thing for me is to do what I love.</h4>
 
 <h2>Skills</h2>
 

@@ -1,10 +1,4 @@
-init: start cv.md 
-feat: add h1
-h2 feat: add lists 
-docs: Markdown & Git
-fix: Failed commit requirements: Commits do no follow guideline -> ["Update README.md" , "Update README.md" , "Update README.md" , "Update cv.md" , "Update cv.md" , "Rename cv to cv.md" , "Rename cv to cv/cv.md" , "cv.md" , "Rename cv to cv.md" , "cv.md" , "Update README.md"]
-
-<h1>Alexander Peretyatko</h1>
+# <h1>Alexander Peretyatko
 
 * Phone number: +375257847398
 * Marital status: Single
@@ -12,9 +6,11 @@ fix: Failed commit requirements: Commits do no follow guideline -> ["Update READ
 * Nationality: Belarussian
 * Email: gthtnznrjdfytr@gmail.com
 
-<h4>My main goal is all-round development, learning new skills and a successful career. This is facilitated by such qualities as: purposefulness, focus on results, desire to learn something new and interesting. I always want to move forward with new knowledge. I am currently studying programming languages. Specialty programmer-engineer-economist at MITSO University. Interesting programming. The most important thing for me is to do what I love.</h4>
+#### <h4>My main goal is all-round development, learning new skills and a successful career. This is facilitated by such qualities as: purposefulness, focus on results, desire
+#### <h4>to learn something new and interesting. I always want to move forward with new knowledge. I am currently studying programming languages. Specialty 
+#### <h4>programmer-engineer-economist at MITSO University. Interesting programming. The most important thing for me is to do what I love.
 
-<h2>Skills</h2>
+## <h2>Skills
 
 1. html
 1. css

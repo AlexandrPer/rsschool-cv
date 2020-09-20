@@ -2,6 +2,7 @@ init: start cv.md
 feat: add h1
 h2 feat: add lists 
 docs: Markdown & Git
+fix: Failed commit requirements: Commits do no follow guideline -> ["Update README.md" , "Update README.md" , "Update README.md" , "Update cv.md" , "Update cv.md" , "Rename cv to cv.md" , "Rename cv to cv/cv.md" , "cv.md" , "Rename cv to cv.md" , "cv.md" , "Update README.md"]
 
 <h1>Alexander Peretyatko</h1>
 

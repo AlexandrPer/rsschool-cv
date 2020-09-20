@@ -1,3 +1,9 @@
+fix : Update cv.md
+fix : Update README.md
+fix : Rename cv to cv.md
+fix : Rename cv to cv/cv.md
+fix : Rename cv.md
+
 # <h1>Alexander Peretyatko
 
 * Phone number: +375257847398

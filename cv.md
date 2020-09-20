@@ -1,5 +1,5 @@
 init: start cv.md 
-feat: add h1 and 
+feat: add h1
 h2 feat: add lists 
 docs: Markdown & Git
 
